@@ -3,9 +3,12 @@
 ### !! Deprecated Version. See V3 !!
 
 Blinds V1 was quickly replaced by V2.\
-V2 is the refreshed version, redocumented, and fewer bugs.
+V2 is the refreshed version, redocumented, and fewer bugs.\
+V1 was used primarily as a test platform.
 
 This project works off of an MQTT server. The MQTT server we used was Home Assistant (back when it was free and local).
+
+This project was meant to provide a cheap and robust solution for motorized window blinds.
 
 ### Note
 Core libraries and needed files can be found in Core branch
@@ -24,6 +27,9 @@ homeassistant dashboard:
 ![alt text](image.png)
 
 ### Breadboard with esp8266, motor drivers and power supply:
-![alt text](IMG_20220302_223323.jpg)
 ![alt text](IMG_20220302_223240.jpg)
-![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](<Arduino Blinds 7 stepper wiring diagram 2.0.png>)
+
+## Videos
+[Blinds V2 Demo](https://youtube.com/shorts/AZeJPT1ahEQ)
